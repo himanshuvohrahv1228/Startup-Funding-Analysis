@@ -1,6 +1,6 @@
-# 🚀 Startup Funding Analysis (Streamlit App)
+# 🚀 Startup Funding Analysis
 
-This is an interactive **Streamlit Dashboard** that analyzes Indian startup funding data.  
+This is an interactive **Dashboard** that analyzes Indian startup funding data.  
 It allows users to explore funding trends, investor insights, and startup-level details.
 
 ---
