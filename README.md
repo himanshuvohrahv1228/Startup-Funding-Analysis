@@ -36,6 +36,7 @@ Matplotlib – Data visualization
 Streamlit – Interactive web app
 
 🙌 Contributors
+
 Himanshu Vohra
 
 ⭐ Acknowledgements
